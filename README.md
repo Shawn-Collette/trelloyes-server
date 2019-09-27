@@ -1,12 +1,18 @@
-# Express Boilerplate!
+# Trelloyes Server with Express
 
-This is a boilerplate project used for starting new projects!
+## New features used:
+
+Layers, Modularization, and Routes
+
+See Module 11, Checkpoint 9.
 
 ## .env file
 Create a .env file with the following contents...
 
 NODE_ENV=development
+
 PORT=8000
+
 API_TOKEN="YOUR_API_TOKEN"
 
 ## Scripts
